@@ -22,7 +22,7 @@ we will choose Node Js.
 ## Sources 
 we are contributing in our project what ever we are learning and practicing in data structure and Algorithm section 
 we created a seprate repository for it.
-Repository link :- <a href="https://github.com/shivamnerwal1998/DSA_.git" ></a>
+Repository link : https://github.com/shivamnerwal1998/DSA_.git
 ## Future Scope Of Project
  
  1.In future we want to include backend in our application for this we are planning to use 
