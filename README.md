@@ -19,3 +19,12 @@ user interface is used to make our application more attractive and user friendly
 we are planning to add a feedback section in our application so that we can improve it 
 according to users feedback. In future we introduce backend in our application for that 
 we will choose Node Js. 
+## Future Scope Of Project
+ 
+ In future we want to include backend in our application for this we are planning to use 
+Node js that’s why we included it in our technical stack.
+ Login secton for users we are planning to include a login section for users. 
+ Feedback feature such that if any user want a improvement in any content then he just 
+submit the content and after the approval his changes are visible in the main content. 
+ We also want to include a discussion section so that the users who are visiting the application can discuss in that section and a good sharing of quality knowledge take place.
+
