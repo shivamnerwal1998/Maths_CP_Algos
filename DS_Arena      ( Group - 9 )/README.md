@@ -21,7 +21,7 @@ according to users feedback. In future we introduce backend in our application f
 we will choose Node Js.
 ## Sources 
 we are contributing in our project what ever we are learning and practicing in data structure and Algorithm section 
-we created a seprate repository for it.
+we created a seprate repository for it.</br>
 Repository link : https://github.com/shivamnerwal1998/DSA_.git
 ## Future Scope Of Project
  
