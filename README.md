@@ -1,10 +1,10 @@
   ##  DS_Arena
 ## Team Members 
-<b>Shivam Nerwal <b></br>
+<b>1. Shivam Nerwal </b></br>
   MCA 4th A</br>
- (1900290140033)</br>
+ 1900290140033</br>
  </br>
-** Shubham Kumar Vishnoi **</br>
+<b>2. Shubham Kumar Vishnoi </b></br>
   MCA 4th A</br>
- (1900290140036)</br> 
+ 1900290140036 </br> 
  
