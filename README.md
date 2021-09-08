@@ -10,10 +10,10 @@
  </br>
  ## Objective
  YRCC is a web based application which help the users to book yoga classes </br>
- the data of users who wants to enroll in yoga class is systematically recorded  </br>
+ the data of users who wants to enroll in yoga class is systematically recorded. </br>
  
  ## Technology used 
- <b>javaScript </b>
- <b>HTML/CSS</b>
- <b>PHP</b>
+ <b>javaScript </b></br>
+ <b>HTML/CSS</b></br>
+ <b>PHP</b></br>
  <b>mysql</b>
